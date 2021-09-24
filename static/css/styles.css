@@ -1,0 +1,13 @@
+*{
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.holder{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
